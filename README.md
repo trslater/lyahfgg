@@ -15,10 +15,10 @@ This repo will contain notes, experiments, exercises, etc. pertaining to my expe
     -   [x] Texas ranges
     -   [x] I'm a list comprehension
     -   [x] Tuples
-3.  [ ] Types and Typeclasses
-    -   [ ] Believe the type
-    -   [ ] Type variables
-    -   [ ] Typeclasses 101
+3.  [x] Types and Typeclasses
+    -   [x] Believe the type
+    -   [x] Type variables
+    -   [x] Typeclasses 101
 4.  [ ] Syntax in Functions
     -   [ ] Pattern matching
     -   [ ] Guards, guards!
