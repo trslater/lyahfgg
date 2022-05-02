@@ -42,6 +42,7 @@
 
     So can be used on any function w/ 2 or more args: `a -> a -> a`
 
-## Questions
+## TODO
 
 -   [ ] How do you divide `Int` by `Int`?
+-   [ ] Revisit list comprehension `length`

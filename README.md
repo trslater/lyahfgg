@@ -20,7 +20,7 @@ This repo will contain notes, experiments, exercises, etc. pertaining to my expe
     -   [x] Type variables
     -   [x] Typeclasses 101
 4.  [ ] Syntax in Functions
-    -   [ ] Pattern matching
+    -   [x] Pattern matching
     -   [ ] Guards, guards!
     -   [ ] Where!?
     -   [ ] Let it be
