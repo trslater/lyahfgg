@@ -19,12 +19,12 @@ This repo will contain notes, experiments, exercises, etc. pertaining to my expe
     -   [x] Believe the type
     -   [x] Type variables
     -   [x] Typeclasses 101
-4.  [ ] Syntax in Functions
+4.  [x] Syntax in Functions
     -   [x] Pattern matching
-    -   [ ] Guards, guards!
-    -   [ ] Where!?
-    -   [ ] Let it be
-    -   [ ] Case expressions
+    -   [x] Guards, guards!
+    -   [x] Where!?
+    -   [x] Let it be
+    -   [x] Case expressions
 5.  [ ] Recursion
     -   [ ] Hello recursion!
     -   [ ] Maximum awesome
