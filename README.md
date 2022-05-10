@@ -25,12 +25,12 @@ This repo will contain notes, experiments, exercises, etc. pertaining to my expe
     -   [x] Where!?
     -   [x] Let it be
     -   [x] Case expressions
-5.  [ ] Recursion
-    -   [ ] Hello recursion!
-    -   [ ] Maximum awesome
-    -   [ ] A few more recursive functions
-    -   [ ] Quick, sort!
-    -   [ ] Thinking recursively
+5.  [x] Recursion
+    -   [x] Hello recursion!
+    -   [x] Maximum awesome
+    -   [x] A few more recursive functions
+    -   [x] Quick, sort!
+    -   [x] Thinking recursively
 6.  [ ] Higher Order Functions
     -   [ ] Curried functions
     -   [ ] Some higher-orderism is in order
