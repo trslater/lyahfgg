@@ -31,21 +31,21 @@ This repo will contain notes, experiments, exercises, etc. pertaining to my expe
     -   [x] A few more recursive functions
     -   [x] Quick, sort!
     -   [x] Thinking recursively
-6.  [ ] Higher Order Functions
-    -   [ ] Curried functions
-    -   [ ] Some higher-orderism is in order
-    -   [ ] Maps and filters
-    -   [ ] Lambdas
-    -   [ ] Only folds and horses
-    -   [ ] Function application with $
-    -   [ ] Function composition
-7.  [ ] Modules
-    -   [ ] Loading modules
-    -   [ ] Data.List
-    -   [ ] Data.Char
-    -   [ ] Data.Map
-    -   [ ] Data.Set
-    -   [ ] Making our own modules
+6.  [x] Higher Order Functions
+    -   [x] Curried functions
+    -   [x] Some higher-orderism is in order
+    -   [x] Maps and filters
+    -   [x] Lambdas
+    -   [x] Only folds and horses
+    -   [x] Function application with $
+    -   [x] Function composition
+7.  [x] Modules
+    -   [x] Loading modules
+    -   [x] Data.List
+    -   [x] Data.Char
+    -   [x] Data.Map
+    -   [x] Data.Set
+    -   [x] Making our own modules
 8.  [ ] Making Our Own Types and Typeclasses
     -   [ ] Algebraic data types intro
     -   [ ] Record syntax
