@@ -47,7 +47,7 @@ This repo will contain notes, experiments, exercises, etc. pertaining to my expe
     -   [x] Data.Set
     -   [x] Making our own modules
 8.  [ ] Making Our Own Types and Typeclasses
-    -   [ ] Algebraic data types intro
+    -   [x] Algebraic data types intro
     -   [ ] Record syntax
     -   [ ] Type parameters
     -   [ ] Derived instances
