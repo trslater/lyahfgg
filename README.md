@@ -48,9 +48,9 @@ This repo will contain notes, experiments, exercises, etc. pertaining to my expe
     -   [x] Making our own modules
 8.  [ ] Making Our Own Types and Typeclasses
     -   [x] Algebraic data types intro
-    -   [ ] Record syntax
-    -   [ ] Type parameters
-    -   [ ] Derived instances
+    -   [x] Record syntax
+    -   [x] Type parameters
+    -   [x] Derived instances
     -   [ ] Type synonyms
     -   [ ] Recursive data structures
     -   [ ] Typeclasses 102
